@@ -1,0 +1,3 @@
+[0922/170103.863:ERROR:crash_report_database_win.cc(562)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
+[0922/170103.870:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0922/170103.872:ERROR:crash_report_database_win.cc(562)] GetFileAttributes C:\Users\Harshit\AppData\Local\Google\Chrome\User Data\Crashpad\reports: not a directory
